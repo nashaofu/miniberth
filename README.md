@@ -2,7 +2,7 @@
 
 Mac mini M6 与移动 SSD 的一体式桌面托架。主机从顶部水平放入，硬盘竖插在左侧，短 USB-C 线绕到背面连接两台设备。
 
-![星空灰托架装机效果](docs/gallery/M6-space-gray-loaded.png)
+![星空灰托架装机效果](docs/gallery/miniberth-front.png)
 
 **[下载打印模型 STL](models/miniberth.stl) · [下载 A3 完整尺寸图 PDF](docs/dimensions.pdf) · [打印与装配说明](docs/printing.md)**
 
